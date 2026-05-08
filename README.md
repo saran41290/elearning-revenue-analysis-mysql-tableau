@@ -204,8 +204,6 @@ elearning-platform-sql-analysis/
 │   ├── dashboard.png
 │   ├── kpi_cards.png
 │   └── eer_diagram.png
-│
-└── dataset/
 ```
 
 ---
@@ -214,15 +212,17 @@ elearning-platform-sql-analysis/
 
 ## KPI Dashboard
 
-(Add KPI screenshot here)
+<img src="screenshots/KPI.png" alt="KPI Dashboard" width="1000"/>
 
 ## Full Tableau Dashboard
 
-(Add dashboard screenshot here)
+<img src="screenshots/Dashboard.png" alt="Full Dashboard" width="1000"/>
 
 ## EER Diagram
 
-(Add EER diagram here)
+<div align="center">
+  <img src="screenshots/eer.png" alt="EER Diagram" width="850"/>
+</div>
 
 ---
 
@@ -246,3 +246,7 @@ This project demonstrates how MySQL and Tableau can be combined to perform end-t
 
 Saranya D
 Aspiring Data Analyst
+
+## Tags
+
+`MySQL` `Tableau` `SQL` `Data Analytics` `Business Intelligence` `Dashboard` `Data Visualization` `CTE` `Window Functions` `DENSE_RANK` `SQL Views` `Relational Database` `KPI Analysis` `Revenue Analysis` `Learner Behavior Analysis` `E-Learning Analytics` `MySQL Workbench` `Business Reporting` `Analytical SQL` `Portfolio Project`
